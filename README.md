@@ -1,5 +1,8 @@
 # Guess-My-Number
-JavaScript Jonas
+JavaScript Jonas.
+- DOM selection and manipulation for HTML elements and for CSS.
+- eventListener and handler.
+- Click event.
 
 Application Outlook :
 ![image](https://user-images.githubusercontent.com/45042261/221356893-6175065d-574d-4548-b6bb-df5c1ae473e4.png)
