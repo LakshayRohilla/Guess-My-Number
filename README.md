@@ -1,6 +1,6 @@
 # Guess-My-Number
 Waana try this application : https://guess-my-number-lr.netlify.app/
-JavaScript Jonas.
+
 - DOM selection and manipulation for HTML elements and for CSS.
 - eventListener and handler.
 - Click event.
